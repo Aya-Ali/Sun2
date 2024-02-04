@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg bg-secondary-subtle">
       <div className="container-fluid">
         <Link className="navbar-brand" to="home">
-          <img src={logo} alt="" />
+          <img src={logo} alt="cxc" />
 
 
         </Link>
